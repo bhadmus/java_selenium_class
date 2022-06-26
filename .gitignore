@@ -1,0 +1,10 @@
+
+
+# Automatically generated files(IDE)
+.idea/
+
+# Automatically generated files(code)
+target/
+
+# sensitive info
+.env
